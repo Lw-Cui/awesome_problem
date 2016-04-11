@@ -13,3 +13,7 @@
 * CF 569A [Music](http://codeforces.com/contest/569/problem/A)  比较坑的地方在于“路程”和“时间”的单位是一样的。。。一想错了就覆水难收。。木有题解～
 
 * CF 577A [Multiplication Table](http://codeforces.com/contest/577/problem/A) 10+ 行,多了就说明错了
+
+## 面向对象与算法的结合！
+
+* 最小生成树
